@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-☔ WhatIf is an extremely simple and easy to use JavaScript extension for expressing a single if-else statement anywhere, anytime.
+WhatIf is an extremely simple and easy to use JavaScript extension for expressing a single if-else statement anywhere, anytime.
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 Install using `yarn` or `npm`
 
 ```bash
-npm install whatif-js --save
+npm i --save whatif-js
 yarn add whatif-js
 ```
 
-Then in the `entrypoint` of your `app`/`module`just ` require``whatIf `:
+Then in the `entryPoint` of your `app`/`module`just ` require``whatIf `:
 
 ```javascript
 require("whatif-js");
