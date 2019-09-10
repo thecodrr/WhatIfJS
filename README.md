@@ -1,8 +1,10 @@
 # WhatIfJS
 
-[![total downloads of WhatIfJS](https://img.shields.io/npm/dt/whatif-js.svg)](https://www.npmjs.com/package/whatif-js)
-[![WhatIfJS's License](https://img.shields.io/npm/l/whatif-js.svg)](https://www.npmjs.com/package/whatif-js)
-[![latest version of WhatIfJS](https://img.shields.io/npm/v/whatif-js.svg)](https://www.npmjs.com/package/whatif-js)
+<p align="center">
+ <a href="https://www.npmjs.com/package/whatif-js"><img alt="total downloads of WhatIfJS" src="https://img.shields.io/npm/dt/whatif-js.svg"/></a>
+ <a href="https://www.npmjs.com/package/whatif-js"><img alt="WhatIfJS's License" src="https://img.shields.io/npm/l/whatif-js.svg"/></a>
+ <a href="https://www.npmjs.com/package/whatif-js"><img alt="latest version of WhatIfJS" src="https://img.shields.io/npm/v/whatif-js.svg"/></a>
+</p>
 
 <p align="center">
 WhatIf is an extremely simple and easy to use JavaScript extension for expressing a single if-else statement anywhere, anytime.
