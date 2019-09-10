@@ -184,7 +184,7 @@ anyArray.whatIfNotNullOrEmpty(
 
 ## Find this library useful? :heart:
 
-Support it by joining **[stargazers](https://github.com/thecodrr/WhatIfJS/stargazers)** for this repository. :star:or [buy me a cup of coffee]([https://ko-fi.com/thecodrr](https://ko-fi.com/thecodrr)
+Support it by joining **[stargazers](https://github.com/thecodrr/WhatIfJS/stargazers)** for this repository. :star:or [buy me a cup of coffee](https://ko-fi.com/thecodrr)
 And **[follow](https://github.com/thecodrr)** me for my next creations! 🤩
 
 # License
