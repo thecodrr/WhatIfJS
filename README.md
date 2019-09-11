@@ -33,7 +33,7 @@ And that's it, nothing more needed for setup. Everything is handled by the modul
 
 ## Usage
 
-### Whfunction() {atIf
+### WhatIf
 
 `WhatIf` is an expression for invoking an `action` when the given value is not-`null`, not-`undefined` and `true`.
 
