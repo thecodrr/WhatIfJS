@@ -73,6 +73,6 @@ function whatIfNot(given, action, actionWhatIfNot) {
         ? action.call(this, this())
         : action
       : (action && action.call(this, this)) || this;
-  } else if (actionWhatIfNot) actionWhatIfNot(this);
+  } else if (actionWhatIfNot) return actionWhatIfNot(this);
   else return this;
 }
