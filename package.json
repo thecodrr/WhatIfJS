@@ -1,6 +1,6 @@
 {
   "name": "whatif-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WhatIf is an extremely simple and easy to use JavaScript extension for expressing a single if-else statement anywhere, anytime.",
   "main": "index.js",
   "scripts": {
